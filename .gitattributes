@@ -1,0 +1,7 @@
+Model/Res50[[:space:]]-[[:space:]]SHHA.zip filter=lfs diff=lfs merge=lfs -text
+Model/Res50[[:space:]]-[[:space:]]SHHB.zip filter=lfs diff=lfs merge=lfs -text
+Model/MCNN[[:space:]]-[[:space:]]SHHB.zip filter=lfs diff=lfs merge=lfs -text
+Model/MCNN[[:space:]]-[[:space:]]SHHA.zip filter=lfs diff=lfs merge=lfs -text
+Model/VGG19[[:space:]]-[[:space:]]SHHA.zip filter=lfs diff=lfs merge=lfs -text
+Model/VGG19[[:space:]]-[[:space:]]SHHB.zip filter=lfs diff=lfs merge=lfs -text
+Model/GLoss[[:space:]]-[[:space:]]SHHB.zip filter=lfs diff=lfs merge=lfs -text
