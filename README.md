@@ -8,6 +8,10 @@
 
 ## Final project:
 Crowd Counting: A view around state-of-the-art
+
+The main problem:
+* **Estimating the number of people** or objects in a given scene or image.
+* Leveraging Neural Networks, Unbalanced Optimal Transport, and DL techniques.
 ## Giới thiệu môn học:
 * **Tên môn học:** Thi giác máy tính nâng cao
 * **Mã môn học:** CS331
@@ -21,7 +25,7 @@ Crowd Counting: A view around state-of-the-art
 |   1   |21520142| Nguyễn Tuấn Anh |21520142@gm.uit.edu.vn|
 |   2   |21520033|  Hà Văn Hoàng   |21520033@gm.uit.edu.vn|
 
-## Paper:
+## References:
 [Single-Image Crowd Counting via Multi-Column Convolutional Neural Network](https://openaccess.thecvf.com/content_cvpr_2016/html/Zhang_Single-Image_Crowd_Counting_CVPR_2016_paper.html)
 
 [A Generalized Loss Function for Crowd Counting and Localization](https://openaccess.thecvf.com/content/CVPR2021/html/Wan_A_Generalized_Loss_Function_for_Crowd_Counting_and_Localization_CVPR_2021_paper.html)
